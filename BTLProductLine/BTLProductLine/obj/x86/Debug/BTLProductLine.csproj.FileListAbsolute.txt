@@ -1,0 +1,1244 @@
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140825\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140826\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140826_1\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140827\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140828\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140829\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+G:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+G:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140829_1\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140829_1\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+C:\Users\Administrator.3VRZXTJDHC7I2FP\Desktop\BTLProductLine20140829_1\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140830\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140830_1\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140901\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140902\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140902\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\BTLProductLine20140902\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140904\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140904\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\BTLProductLine20140904\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140905\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140905\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140905\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140905\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140906\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\BTLProductLine20140909\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140909\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140909\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140909\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140910\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140910\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140910\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\MyProject\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140910\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140910\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140910\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductReferForm.resources
+D:\BTLProductLine20140910\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140911\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140911\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140911\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140911\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+H:\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+H:\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+H:\BTLProductLine20140912\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+H:\BTLProductLine20140912\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140913\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140913\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140913\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140913\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140915\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140916\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140917\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140917\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140917\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Code Snippets\BTLProductLine20140917b\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140918\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140918\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140918\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140918\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140919\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\BTLProductLine20140919\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\BTLProductLine20140919\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\BTLProductLine20140919\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140920\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\BTLProductLine20140922\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+C:\Database Example\BTLProductLine\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+C:\Database Example\BTLProductLine\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+C:\Database Example\BTLProductLine\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+C:\Database Example\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140924\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+G:\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+G:\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+G:\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+G:\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140925\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\9\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20140926\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B1\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B2\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B2\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B2\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141011B2\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+d:\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141018\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141021\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\10\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141101btl\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141105\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+I:\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+I:\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+I:\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+I:\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141118\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\11\BTLProductLine20141119\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\11\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\11\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\11\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\11\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141222\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141224\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141226\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141227\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141227_BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Personal\我的文档\Visual Studio 2008\Projects\MYTEST\BTLProductLine20141230\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141230BTL\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20141231\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\MyProject\VS2008\2015\1\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TDataBaseManageForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TDataBaseManageForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150104\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.TDataBaseManageForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20150105\BTLProductLine\obj\x86\Debug\BTLProductLine.TPasswordForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.TDataBaseManageForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.TPasswordForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\Project\BTLProductLine\BTLProductLine20150106\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
+D:\Project\BTLProductLine\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\Project\BTLProductLine\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\Project\BTLProductLine\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\Project\BTLProductLine\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.ResolveComReference.cache
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\bin\x86\Debug\BTLProductLine.exe
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\bin\x86\Debug\BTLProductLine.pdb
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\bin\x86\Debug\Interop.ADOX.dll
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.TDataBaseManageForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.TDateReferForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.TAdvancedForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.TPasswordForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.TProductAboutBox.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.TParameterForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.ProductLineForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.Properties.Resources.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.TBarCodeReferForm.resources
+D:\MyProject\VS2008\2015\1\BTLProductLine20150107\BTLProductLine\obj\x86\Debug\BTLProductLine.csproj.GenerateResource.Cache
